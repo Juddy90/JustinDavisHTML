@@ -11,12 +11,20 @@
 }
 
 .aboutMe {
-    width: 50%;
+    width: 75%;
+    padding-bottom: 5%;
 }
 
 .screenShot {
     float: right;
 }
+
+.screenShot1 {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
 
 body {
     background: #333333;
