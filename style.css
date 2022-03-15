@@ -36,8 +36,19 @@ nav ul {
     list-style-type: none;
 }
 
-.images {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 4px;
+.learningStylesImage {
+    text-align: center;
+    padding: 1%;
 }
+
+.personalityImage {
+    text-align: center;
+    padding: 1%;
+}
+
+.big5FactorsImage {
+    text-align: center;
+    padding: 1%;
+}
+
+
