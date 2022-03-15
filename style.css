@@ -1,9 +1,33 @@
-h1 {
+.sectionTitle {
+    width: 50%;
     color: blue;
     text-align: center;
+    margin:auto;
+    border:auto;
+    padding:auto;
+    font-family:auto;
+    font-size:auto;
+    background: brown;
+}
+
+.aboutMe {
+    width: 50%;
+}
+
+.screenShot {
+    float: right;
+}
+body {
+    background: #4d4847;
 }
 
 .sectionContent {
-    color: black;
-    text-align: left;
+    width:50%;
+    background: #8D99AE;
+    margin:auto;
+    border:auto;
+    padding:auto;
+    font-family:auto;
+    font-size:auto;
+    color: blue;
 }
